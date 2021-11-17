@@ -1,3 +1,3 @@
 # demo-repo
-demo for learnig git
+demo for learnig git!
 cool stuff
